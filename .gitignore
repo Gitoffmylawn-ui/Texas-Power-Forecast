@@ -1,0 +1,13 @@
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# shinyapps.io deployment records
+rsconnect/
+
+# Raw and intermediate data (re-created by get_data.R)
+data/ercot_raw/
+data/weather_raw/
+data/ercot_hourly_load.csv
+data/weather_hourly.csv

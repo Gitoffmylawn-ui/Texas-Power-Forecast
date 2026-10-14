@@ -1,0 +1,22 @@
+"Region","Level","Method","MAPE","RMSE","MAE"
+"ERCOT","Daily","ARIMAX (upgraded)",1.88,30.8,24.9
+"ERCOT","Daily","ARIMAX (original 2016 setup)",2.26,39.2,30.3
+"ERCOT","Daily","ETS",5.41,105.7,73.7
+"ERCOT","Daily","Seasonal naive",6.58,116.3,88.4
+"ERCOT","Hourly","Hourly regression",4.48,3117.4,2665.7
+"COAST","Daily","ARIMAX (upgraded)",2.1,9.2,7.3
+"COAST","Hourly","Hourly regression",2.96,626.9,451.9
+"NCENT","Daily","ARIMAX (upgraded)",2.91,13.7,11
+"NCENT","Hourly","Hourly regression",6.16,1270.8,1034.3
+"SCENT","Daily","ARIMAX (upgraded)",2.59,6.8,5.4
+"SCENT","Hourly","Hourly regression",4.62,581.2,453.5
+"SOUTH","Daily","ARIMAX (upgraded)",2.43,3.3,2.6
+"SOUTH","Hourly","Hourly regression",7.81,418.7,370.1
+"FWEST","Daily","ARIMAX (upgraded)",2.24,7.4,3.9
+"FWEST","Hourly","Hourly regression",5.45,507.7,413.8
+"WEST","Daily","ARIMAX (upgraded)",3.38,1.8,1.4
+"WEST","Hourly","Hourly regression",16.44,362.1,297.3
+"NORTH","Daily","ARIMAX (upgraded)",4.2,2.4,1.6
+"NORTH","Hourly","Hourly regression",10.77,231.4,185.7
+"EAST","Daily","ARIMAX (upgraded)",3.61,2,1.6
+"EAST","Hourly","Hourly regression",4.58,115.8,88
